@@ -1,5 +1,7 @@
 <h1>Repositório de Artefatos de Projeto de Software</h1>
 
+<br>
+
 <h2>Benefícios de Usar um Repositório de Artefatos</h2>
 <p>O uso de ferramentas de gestão de configuração, como o GitHub, oferece inúmeros benefícios para equipes de desenvolvimento de software. Um dos principais benefícios é a centralização dos artefatos do projeto, como requisitos, diagramas, código-fonte e documentações. Isso assegura que todos os membros da equipe possam acessar, colaborar e atualizar esses artefatos de forma eficiente e controlada. Além disso, essas ferramentas permitem o controle de versões, facilitando o acompanhamento de alterações, revisão de versões anteriores e evitando conflitos de código.</p>
 
